@@ -1,0 +1,9 @@
+layout: Boostrap
+
+dentro de contenedores: FlexBox
+
+especificidad: position relativ al contenedor y position absolute al elemento.
+
+sass pre procesador de css\\
+
+kebapb case
